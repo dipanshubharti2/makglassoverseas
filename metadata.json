@@ -1,0 +1,6 @@
+{
+  "name": "MAK GLASS OVERSEAS - Glass Products Manufacturer & Exporter",
+  "description": "B2B manufacturer and exporter of premium glass bottles, jars, candle containers, and drinkware based in Firozabad, Uttar Pradesh, India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
